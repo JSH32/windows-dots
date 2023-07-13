@@ -19,5 +19,5 @@ if (Test-Path $PidFile) {
 }
 
 Write-Output "Starting processes"
-komorebic start -c $Env:USERPROFILE/komorebi.json
+komorebic start -c $Env:USERPROFILE/.config/komorebi.json
 Start-Process -WindowStyle hidden -FilePath python -ArgumentList $YasbPath/src/main.py
