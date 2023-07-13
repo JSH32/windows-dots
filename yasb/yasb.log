@@ -1,7 +1,0 @@
-2023-07-13 08:58:12 INFO log.py: Yasb - Yet Another Status Bar
-2023-07-13 08:58:13 INFO bar_manager.py: Starting KomorebiEventListener...
-2023-07-13 08:58:13 INFO bar_manager.py: Starting SystemEventListener...
-2023-07-13 08:58:13 INFO event_listener.py: Created named pipe yasb-4ebbde4d-2185-11ee-8145-f057a609c2dd
-2023-07-13 08:58:13 INFO event_listener.py: Waiting for Komorebi to subscribe to named pipe yasb-4ebbde4d-2185-11ee-8145-f057a609c2dd
-2023-07-13 08:58:13 INFO watcher.py: Created file watcher for path C:\Users\rudni\.config/yasb
-2023-07-13 08:58:13 INFO event_listener.py: Komorebi connected to named pipe: yasb-4ebbde4d-2185-11ee-8145-f057a609c2dd
