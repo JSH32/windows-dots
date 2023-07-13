@@ -1,7 +1,54 @@
-2023-07-13 08:58:12 INFO log.py: Yasb - Yet Another Status Bar
-2023-07-13 08:58:13 INFO bar_manager.py: Starting KomorebiEventListener...
-2023-07-13 08:58:13 INFO bar_manager.py: Starting SystemEventListener...
-2023-07-13 08:58:13 INFO event_listener.py: Created named pipe yasb-4ebbde4d-2185-11ee-8145-f057a609c2dd
-2023-07-13 08:58:13 INFO event_listener.py: Waiting for Komorebi to subscribe to named pipe yasb-4ebbde4d-2185-11ee-8145-f057a609c2dd
-2023-07-13 08:58:13 INFO watcher.py: Created file watcher for path C:\Users\rudni\.config/yasb
-2023-07-13 08:58:13 INFO event_listener.py: Komorebi connected to named pipe: yasb-4ebbde4d-2185-11ee-8145-f057a609c2dd
+2023-07-13 10:16:25 INFO log.py: Yasb - Yet Another Status Bar
+2023-07-13 10:16:25 INFO bar_manager.py: Starting KomorebiEventListener...
+2023-07-13 10:16:25 INFO bar_manager.py: Starting SystemEventListener...
+2023-07-13 10:16:25 INFO event_listener.py: Created named pipe yasb-3be98397-2190-11ee-8952-f057a609c2dd
+2023-07-13 10:16:25 INFO watcher.py: Created file watcher for path C:\Users\rudni\.config/yasb
+2023-07-13 10:16:25 INFO event_listener.py: Waiting for Komorebi to subscribe to named pipe yasb-3be98397-2190-11ee-8952-f057a609c2dd
+2023-07-13 10:16:25 INFO event_listener.py: Komorebi connected to named pipe: yasb-3be98397-2190-11ee-8952-f057a609c2dd
+2023-07-13 10:18:29 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:18:34 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:18:45 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:18:48 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:18:50 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:18:53 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:18:56 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:18:59 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:19:02 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:19:05 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:19:08 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:19:12 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:19:15 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:19:17 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:20:12 INFO bar_manager.py: Stopping KomorebiEventListener...
+2023-07-13 10:20:12 INFO bar_manager.py: Stopping SystemEventListener...
+2023-07-13 10:20:12 INFO bar_manager.py: Starting KomorebiEventListener...
+2023-07-13 10:20:12 INFO bar_manager.py: Starting SystemEventListener...
+2023-07-13 10:20:12 INFO bar_manager.py: Successfully loaded updated config and re-initialised all bars.
+2023-07-13 10:20:12 INFO event_listener.py: Created named pipe yasb-c32b0781-2190-11ee-990d-f057a609c2dd
+2023-07-13 10:20:12 INFO event_listener.py: Waiting for Komorebi to subscribe to named pipe yasb-c32b0781-2190-11ee-990d-f057a609c2dd
+2023-07-13 10:20:12 INFO event_listener.py: Komorebi connected to named pipe: yasb-c32b0781-2190-11ee-990d-f057a609c2dd
+2023-07-13 10:20:22 INFO bar_manager.py: Stopping KomorebiEventListener...
+2023-07-13 10:20:22 INFO bar_manager.py: Stopping SystemEventListener...
+2023-07-13 10:20:23 INFO bar_manager.py: Starting KomorebiEventListener...
+2023-07-13 10:20:23 INFO bar_manager.py: Starting SystemEventListener...
+2023-07-13 10:20:23 INFO bar_manager.py: Successfully loaded updated config and re-initialised all bars.
+2023-07-13 10:20:23 INFO event_listener.py: Created named pipe yasb-c9a611c2-2190-11ee-88b0-f057a609c2dd
+2023-07-13 10:20:23 INFO event_listener.py: Waiting for Komorebi to subscribe to named pipe yasb-c9a611c2-2190-11ee-88b0-f057a609c2dd
+2023-07-13 10:20:23 INFO event_listener.py: Komorebi connected to named pipe: yasb-c9a611c2-2190-11ee-88b0-f057a609c2dd
+2023-07-13 10:20:37 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:20:40 INFO bar_manager.py: Stopping KomorebiEventListener...
+2023-07-13 10:20:40 INFO bar_manager.py: Stopping SystemEventListener...
+2023-07-13 10:20:40 INFO bar_manager.py: Starting KomorebiEventListener...
+2023-07-13 10:20:40 INFO bar_manager.py: Starting SystemEventListener...
+2023-07-13 10:20:40 INFO bar_manager.py: Successfully loaded updated config and re-initialised all bars.
+2023-07-13 10:20:40 INFO event_listener.py: Created named pipe yasb-d3f240c5-2190-11ee-b66b-f057a609c2dd
+2023-07-13 10:20:41 INFO event_listener.py: Waiting for Komorebi to subscribe to named pipe yasb-d3f240c5-2190-11ee-b66b-f057a609c2dd
+2023-07-13 10:20:41 INFO event_listener.py: Komorebi connected to named pipe: yasb-d3f240c5-2190-11ee-b66b-f057a609c2dd
+2023-07-13 10:20:51 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:20:53 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:20:54 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:20:57 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:20:58 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:20:59 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:21:01 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
+2023-07-13 10:21:10 INFO bar_manager.py: Successfully loaded updated stylesheet and applied to all bars.
