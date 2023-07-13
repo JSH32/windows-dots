@@ -1,3 +1,4 @@
+# Change this to your yasb path
 $YasbPath = "$Env:USERPROFILE/Documents/Projects/yasb-py"
 
 Write-Output "Killing processes"
