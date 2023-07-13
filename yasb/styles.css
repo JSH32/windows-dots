@@ -1,0 +1,139 @@
+* {
+  font-family: 'MesloLGL Nerd Font';
+  font-size: 14px;
+  color: #f2e5bc;
+}
+
+.bar {
+  background: rgba(29, 32, 33, 0.3);
+  border: 1px solid #504945;
+  padding: 3px 5px;
+
+  margin: 6px;
+  border-radius: 5px;
+}
+
+.widget {
+  padding: 0 5px;
+  border-radius: 5px;
+}
+
+.container-right .widget {
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.container-right .widget * {
+  color: #242424;
+}
+
+.komorebi-workspaces {
+  background-color: #1a2931;
+
+  margin-left: 0;
+}
+
+.ws-btn {
+  padding: 4px;
+  background: rgba(255, 255, 255, 0);
+  margin: 2px 1px;
+  font-size: 12px;
+  color: #9d9488;
+}
+
+.ws-btn:hover {
+  color: #fbf1c7;
+  font-weight: bold;
+}
+
+.ws-btn.active {
+  color: #f2e5bc;
+}
+
+.custom-widget {
+  padding: 2px 6px;
+  font-size: 14px;
+  background: #bdae93;
+}
+
+.custom-widget .icon {
+  font-size: 13px;
+}
+
+.custom-widget:hover {
+  background: #fbf1c7;
+}
+
+.custom-widget .icon.icon-left {
+  margin-right: 5px;
+}
+
+.custom-widget .icon.icon-right {
+  margin-left: 5px;
+}
+
+.custom-widget.hostname-widget {
+  background: #83a598;
+}
+
+.custom-widget.terminal-widget {
+  font-size: 14px;
+}
+
+.cpu-widget .label,
+.memory-widget .label,
+.battery-widget .label {
+  background: #bdae93;
+  padding: 2px 5px;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.battery-widget .label.status-critical {
+  background: #fb4934;
+}
+
+.battery-widget .label.status-low {
+  background: #fe8019;
+}
+
+.battery-widget .label.status-medium {
+  background: #fabd2f;
+}
+
+.battery-widget .label.status-high {
+  background: #b8bb26;
+}
+
+.battery-widget .label.status-full {
+  background: #8ec07c;
+}
+
+.battery-widget .label.status-charging {
+  background: #8ec07c;
+}
+
+.battery-widget,
+.memory-widget {
+  margin: 0;
+}
+
+.active-window-widget {
+  margin-left: 5px;
+  background-color: #375753;
+}
+
+.active-window-widget .label {
+  padding: -5px 7px 0 7px;
+  color: #f2e5bc;
+  /* background: #83a598; */
+  margin-bottom: -1px;
+  border-radius: 3px;
+  margin: 2px;
+}
+
+.komorebi-active-layout .label {
+  color: #fbf1c7;
+  margin: -4px 2px 2px 8px;
+  font-family: Hack;
+}
