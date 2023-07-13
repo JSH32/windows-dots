@@ -1,8 +1,8 @@
 .shell powershell
 
 # Reload whkd configuration
-# alt + o                 : taskkill /f /im whkd.exe && start /b whkd # if shell is cmd
 alt + o                 : taskkill /f /im whkd.exe; Start-Process whkd -WindowStyle hidden # if shell is pwsh / powershell
+# Start or restart everything.
 alt + shift + o         : Start-Process powershell -ArgumentList "$Env:USERPROFILE/.config/komorebi.ps1" -WindowStyle hidden
 
 # App shortcuts - these require shell to be pwsh / powershell

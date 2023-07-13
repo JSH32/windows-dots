@@ -84,9 +84,13 @@
 .memory-widget .label,
 .battery-widget .label {
   background: #bdae93;
-  padding: 2px 5px;
+  padding: 0 5px;
   font-size: 14px;
   border-radius: 5px;
+}
+
+.battery-widget {
+  padding-right: 0;
 }
 
 .battery-widget .label.status-critical {
